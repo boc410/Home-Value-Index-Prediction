@@ -78,6 +78,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 Exploratory*Data*Analysis*v2.ipynb
+time*series*example.ipynb
 
 # IPython
 profile_default/
