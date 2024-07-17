@@ -1,4 +1,4 @@
-# Home-Value-Index-Prediction
+# Home Value Index Prediction
 <img align="right" width="300" height="300" src="https://github.com/user-attachments/assets/e3aaea1b-e83c-4728-8558-5d1d87c5fce2" />
 
 A predictive model for the short-term change in home price value in metro areas across the United States.
