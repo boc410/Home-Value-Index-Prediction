@@ -1,5 +1,6 @@
 # Home-Value-Index-Prediction
-![Houses_thumbnail](https://github.com/user-attachments/assets/d0e1ad60-5c12-4945-80ef-1898376008ff)
+<img align="right" width="300" height="300" src="https://github.com/user-attachments/assets/e3aaea1b-e83c-4728-8558-5d1d87c5fce2" />
+
 A predictive model for the short-term change in home price value in metro areas across the United States.
 
 Market data from Zillow, job opening statistics from the Bureau of Labor Statistics (BLS), and Gross Domestic Product (GDP), population and personal income statistics from the Bureau of Economic Analysis (BEA) were utilized to train and test a variety of models.
